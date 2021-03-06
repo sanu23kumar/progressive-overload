@@ -1,6 +1,6 @@
 # progressive-overload
 
-An open-source workout logging react-native(expo) app.
+An open-source workout logging react-native(cli) app.
 
 To make new commits, 
 1. Add an emoji before your commit message https://gist.github.com/parmentf/035de27d6ed1dce0b36a
